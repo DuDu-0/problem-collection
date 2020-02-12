@@ -6,14 +6,14 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Banyak anak yang terkadang membolos pramuka
 
 # Solution
-(tulis solusi disini)
+Membuat pendeteksi absensi siswa pada gerbang sekolah untuk memberi informasi langsung ke server guru bila siswa pulang tak pada waktunya atau bolos
 
 
 ## Author
-by (tulis nama kamu) 
-
+by Dwika Bagus M 
+8i
 
 cc: SMPN 1 Semarang
