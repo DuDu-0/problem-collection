@@ -6,14 +6,15 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Regu piket terkadang tidak menjalankan
+tanggung jawab mereka.
 
 # Solution
-(tulis solusi disini)
-
+Mempertegas hukuman atau sanksi bagi yang
+tidak menjalankannya.
 
 ## Author
-by (tulis nama kamu) 
+By Dudu
 
 
 cc: SMPN 1 Semarang
